@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiProgram", "HiProgram\HiProgram.csproj", "{BE4B1500-1445-4F49-83D5-5E264177006D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeAfter10Years", "AgeAfter10Years\AgeAfter10Years.csproj", "{A8575A27-5CA7-4E7E-9428-3DAFB504F008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeAfter10Years", "AgeAfter10Years\AgeAfter10Years.csproj", "{A8575A27-5CA7-4E7E-9428-3DAFB504F008}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyUniqueNumber", "MyUniqueNumber\MyUniqueNumber.csproj", "{6169E6D2-B8A9-4C2D-97EC-EFC7B420A397}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyUniqueNumber", "MyUniqueNumber\MyUniqueNumber.csproj", "{6169E6D2-B8A9-4C2D-97EC-EFC7B420A397}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
