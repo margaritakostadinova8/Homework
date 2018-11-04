@@ -1,0 +1,11 @@
+E:\Magi_C#\C# Nakov\Chapter4\Task_01\bin\Debug\netcoreapp2.1\Task_01.deps.json
+E:\Magi_C#\C# Nakov\Chapter4\Task_01\bin\Debug\netcoreapp2.1\Task_01.runtimeconfig.json
+E:\Magi_C#\C# Nakov\Chapter4\Task_01\bin\Debug\netcoreapp2.1\Task_01.runtimeconfig.dev.json
+E:\Magi_C#\C# Nakov\Chapter4\Task_01\bin\Debug\netcoreapp2.1\Task_01.dll
+E:\Magi_C#\C# Nakov\Chapter4\Task_01\bin\Debug\netcoreapp2.1\Task_01.pdb
+E:\Magi_C#\C# Nakov\Chapter4\Task_01\obj\Debug\netcoreapp2.1\Task_01.csprojAssemblyReference.cache
+E:\Magi_C#\C# Nakov\Chapter4\Task_01\obj\Debug\netcoreapp2.1\Task_01.csproj.CoreCompileInputs.cache
+E:\Magi_C#\C# Nakov\Chapter4\Task_01\obj\Debug\netcoreapp2.1\Task_01.AssemblyInfoInputs.cache
+E:\Magi_C#\C# Nakov\Chapter4\Task_01\obj\Debug\netcoreapp2.1\Task_01.AssemblyInfo.cs
+E:\Magi_C#\C# Nakov\Chapter4\Task_01\obj\Debug\netcoreapp2.1\Task_01.dll
+E:\Magi_C#\C# Nakov\Chapter4\Task_01\obj\Debug\netcoreapp2.1\Task_01.pdb

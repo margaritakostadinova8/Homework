@@ -1,0 +1,10 @@
+E:\Magi_C#\C# Nakov\Chapter1\Task_8\bin\Debug\netcoreapp2.1\Task_8.deps.json
+E:\Magi_C#\C# Nakov\Chapter1\Task_8\bin\Debug\netcoreapp2.1\Task_8.runtimeconfig.json
+E:\Magi_C#\C# Nakov\Chapter1\Task_8\bin\Debug\netcoreapp2.1\Task_8.runtimeconfig.dev.json
+E:\Magi_C#\C# Nakov\Chapter1\Task_8\bin\Debug\netcoreapp2.1\Task_8.dll
+E:\Magi_C#\C# Nakov\Chapter1\Task_8\bin\Debug\netcoreapp2.1\Task_8.pdb
+E:\Magi_C#\C# Nakov\Chapter1\Task_8\obj\Debug\netcoreapp2.1\Task_8.csproj.CoreCompileInputs.cache
+E:\Magi_C#\C# Nakov\Chapter1\Task_8\obj\Debug\netcoreapp2.1\Task_8.AssemblyInfoInputs.cache
+E:\Magi_C#\C# Nakov\Chapter1\Task_8\obj\Debug\netcoreapp2.1\Task_8.AssemblyInfo.cs
+E:\Magi_C#\C# Nakov\Chapter1\Task_8\obj\Debug\netcoreapp2.1\Task_8.dll
+E:\Magi_C#\C# Nakov\Chapter1\Task_8\obj\Debug\netcoreapp2.1\Task_8.pdb
