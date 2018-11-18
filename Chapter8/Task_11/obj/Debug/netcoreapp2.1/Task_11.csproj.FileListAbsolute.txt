@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\M#\Chapter8\Task_11\obj\Debug\netcoreapp2.1\Task_11.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\M#\Chapter8\Task_11\obj\Debug\netcoreapp2.1\Task_11.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\M#\Chapter8\Task_11\obj\Debug\netcoreapp2.1\Task_11.AssemblyInfo.cs
+C:\Users\Alex\Documents\M#\Chapter8\Task_11\obj\Debug\netcoreapp2.1\Task_11.csprojAssemblyReference.cache

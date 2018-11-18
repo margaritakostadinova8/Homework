@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\M#\Chapter8\Task_03\obj\Debug\netcoreapp2.1\Task_03.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\M#\Chapter8\Task_03\obj\Debug\netcoreapp2.1\Task_03.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\M#\Chapter8\Task_03\obj\Debug\netcoreapp2.1\Task_03.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\M#\Chapter8\Task_03\obj\Debug\netcoreapp2.1\Task_03.AssemblyInfo.cs
+C:\Users\Alex\Documents\M#\Chapter8\Task_03\bin\Debug\netcoreapp2.1\Task_03.deps.json
+C:\Users\Alex\Documents\M#\Chapter8\Task_03\bin\Debug\netcoreapp2.1\Task_03.runtimeconfig.json
+C:\Users\Alex\Documents\M#\Chapter8\Task_03\bin\Debug\netcoreapp2.1\Task_03.runtimeconfig.dev.json
+C:\Users\Alex\Documents\M#\Chapter8\Task_03\bin\Debug\netcoreapp2.1\Task_03.dll
+C:\Users\Alex\Documents\M#\Chapter8\Task_03\bin\Debug\netcoreapp2.1\Task_03.pdb
+C:\Users\Alex\Documents\M#\Chapter8\Task_03\obj\Debug\netcoreapp2.1\Task_03.dll
+C:\Users\Alex\Documents\M#\Chapter8\Task_03\obj\Debug\netcoreapp2.1\Task_03.pdb

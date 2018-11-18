@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\M#\Chapter8\Task_10\bin\Debug\netcoreapp2.1\Task_10.deps.json
+C:\Users\Alex\Documents\M#\Chapter8\Task_10\bin\Debug\netcoreapp2.1\Task_10.runtimeconfig.json
+C:\Users\Alex\Documents\M#\Chapter8\Task_10\bin\Debug\netcoreapp2.1\Task_10.runtimeconfig.dev.json
+C:\Users\Alex\Documents\M#\Chapter8\Task_10\bin\Debug\netcoreapp2.1\Task_10.dll
+C:\Users\Alex\Documents\M#\Chapter8\Task_10\bin\Debug\netcoreapp2.1\Task_10.pdb
+C:\Users\Alex\Documents\M#\Chapter8\Task_10\obj\Debug\netcoreapp2.1\Task_10.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\M#\Chapter8\Task_10\obj\Debug\netcoreapp2.1\Task_10.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\M#\Chapter8\Task_10\obj\Debug\netcoreapp2.1\Task_10.AssemblyInfo.cs
+C:\Users\Alex\Documents\M#\Chapter8\Task_10\obj\Debug\netcoreapp2.1\Task_10.dll
+C:\Users\Alex\Documents\M#\Chapter8\Task_10\obj\Debug\netcoreapp2.1\Task_10.pdb
