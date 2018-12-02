@@ -1,0 +1,22 @@
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.csprojAssemblyReference.cache
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.csproj.CoreCompileInputs.cache
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.AssemblyInfoInputs.cache
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.AssemblyInfo.cs
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_02\bin\Debug\netcoreapp2.1\Task_02.deps.json
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_02\bin\Debug\netcoreapp2.1\Task_02.runtimeconfig.json
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_02\bin\Debug\netcoreapp2.1\Task_02.runtimeconfig.dev.json
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_02\bin\Debug\netcoreapp2.1\Task_02.dll
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_02\bin\Debug\netcoreapp2.1\Task_02.pdb
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.dll
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.pdb
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_02\bin\Debug\netcoreapp2.1\Task_02.deps.json
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_02\bin\Debug\netcoreapp2.1\Task_02.runtimeconfig.json
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_02\bin\Debug\netcoreapp2.1\Task_02.runtimeconfig.dev.json
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_02\bin\Debug\netcoreapp2.1\Task_02.dll
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_02\bin\Debug\netcoreapp2.1\Task_02.pdb
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.AssemblyInfo.cs
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.dll
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_02\obj\Debug\netcoreapp2.1\Task_02.pdb

@@ -1,0 +1,11 @@
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_05\bin\Debug\netcoreapp2.1\Task_05 (done).deps.json
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_05\bin\Debug\netcoreapp2.1\Task_05 (done).runtimeconfig.json
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_05\bin\Debug\netcoreapp2.1\Task_05 (done).runtimeconfig.dev.json
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_05\bin\Debug\netcoreapp2.1\Task_05 (done).dll
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_05\bin\Debug\netcoreapp2.1\Task_05 (done).pdb
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_05\obj\Debug\netcoreapp2.1\Task_05 (done).csprojAssemblyReference.cache
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_05\obj\Debug\netcoreapp2.1\Task_05 (done).csproj.CoreCompileInputs.cache
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_05\obj\Debug\netcoreapp2.1\Task_05 (done).AssemblyInfoInputs.cache
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_05\obj\Debug\netcoreapp2.1\Task_05 (done).AssemblyInfo.cs
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_05\obj\Debug\netcoreapp2.1\Task_05 (done).dll
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_05\obj\Debug\netcoreapp2.1\Task_05 (done).pdb

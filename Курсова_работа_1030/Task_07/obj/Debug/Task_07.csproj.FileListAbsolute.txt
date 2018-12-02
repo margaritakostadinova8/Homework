@@ -1,0 +1,7 @@
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_07\obj\Debug\Task_07.csprojAssemblyReference.cache
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_07\obj\Debug\Task_07.csproj.CoreCompileInputs.cache
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_07\bin\Debug\Task_07.exe.config
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_07\bin\Debug\Task_07.exe
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_07\bin\Debug\Task_07.pdb
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_07\obj\Debug\Task_07.exe
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_07\obj\Debug\Task_07.pdb

@@ -1,0 +1,22 @@
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_01\bin\Debug\netcoreapp2.1\Task_01 (done).deps.json
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_01\bin\Debug\netcoreapp2.1\Task_01 (done).runtimeconfig.json
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_01\bin\Debug\netcoreapp2.1\Task_01 (done).runtimeconfig.dev.json
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_01\bin\Debug\netcoreapp2.1\Task_01 (done).dll
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_01\bin\Debug\netcoreapp2.1\Task_01 (done).pdb
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).csprojAssemblyReference.cache
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).csproj.CoreCompileInputs.cache
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).AssemblyInfoInputs.cache
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).AssemblyInfo.cs
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).dll
+E:\Magi_C#\C# Nakov\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).pdb
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_01\bin\Debug\netcoreapp2.1\Task_01 (done).deps.json
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_01\bin\Debug\netcoreapp2.1\Task_01 (done).runtimeconfig.json
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_01\bin\Debug\netcoreapp2.1\Task_01 (done).runtimeconfig.dev.json
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_01\bin\Debug\netcoreapp2.1\Task_01 (done).dll
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_01\bin\Debug\netcoreapp2.1\Task_01 (done).pdb
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).csprojAssemblyReference.cache
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).AssemblyInfo.cs
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).dll
+C:\Users\Alex\Documents\M#\Курсова_работа\Task_01\obj\Debug\netcoreapp2.1\Task_01 (done).pdb
