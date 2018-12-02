@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\M#\Chapter10\Task_08\bin\Debug\netcoreapp2.1\Task_08.deps.json
+C:\Users\Alex\Documents\M#\Chapter10\Task_08\bin\Debug\netcoreapp2.1\Task_08.runtimeconfig.json
+C:\Users\Alex\Documents\M#\Chapter10\Task_08\bin\Debug\netcoreapp2.1\Task_08.runtimeconfig.dev.json
+C:\Users\Alex\Documents\M#\Chapter10\Task_08\bin\Debug\netcoreapp2.1\Task_08.dll
+C:\Users\Alex\Documents\M#\Chapter10\Task_08\bin\Debug\netcoreapp2.1\Task_08.pdb
+C:\Users\Alex\Documents\M#\Chapter10\Task_08\obj\Debug\netcoreapp2.1\Task_08.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\M#\Chapter10\Task_08\obj\Debug\netcoreapp2.1\Task_08.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\M#\Chapter10\Task_08\obj\Debug\netcoreapp2.1\Task_08.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\M#\Chapter10\Task_08\obj\Debug\netcoreapp2.1\Task_08.AssemblyInfo.cs
+C:\Users\Alex\Documents\M#\Chapter10\Task_08\obj\Debug\netcoreapp2.1\Task_08.dll
+C:\Users\Alex\Documents\M#\Chapter10\Task_08\obj\Debug\netcoreapp2.1\Task_08.pdb
